@@ -15,4 +15,4 @@ This sheet contains all the data regarding points, position, and pretty much eve
   Both of these sheets combined hold a lot of useful information. For example, the closest rivalry in terms of qualifying was between Esteban Ocon (won 45.45% of qualifying battles) and Fernando Alonso (54.55%), while the biggest gap between teammates was between Lando Norris (90.91%) and Daniel Ricciardo (9.09%). Also despite outscoring his teammate by 35 points, George Russell actually lost the qualifying battle with his teammate, Lewis Hamilton, 9 - 13. 
 
 # Race Analysis 
-For the 2022 races I used FastF1 and Python to graph and analyze the telemetry and timing data from each race. All of the analysis and opinions in this project are my own. 
+For the 2022 races I used FastF1 and Python to graph and analyze the telemetry and timing data from each race. All of the analysis and opinions in this project are my own, using FastF1 to create the telemetry graphs.
